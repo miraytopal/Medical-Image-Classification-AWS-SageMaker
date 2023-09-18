@@ -8,10 +8,13 @@ You can find the medical dataset [here.](https://www.kaggle.com/datasets/kylegra
 
 **Installation**
 
-**Setting up AWS SageMaker with Conda**
+# Setting up AWS SageMaker with Conda
+
 This guide explains how to configure and use Amazon SageMaker with Conda for machine learning projects. 
 
 **Prerequisites**
+--
+
 Before you start, ensure that you have the following prerequisites in place:
 
 An AWS account with appropriate permissions to use Amazon SageMaker.
