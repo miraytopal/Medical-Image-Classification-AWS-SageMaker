@@ -1,4 +1,4 @@
-# Skin-Cancer-Classification-SageMaker
+# Skin-Cancer-Classification-AWS-SageMaker
 
 This repo aims to classify skin as cancerous or non-cancerous using a skin cancer dataset. In this repository, we will use AWS Sagemaker for training our model. 
 
@@ -11,6 +11,7 @@ You can find the medical dataset [here.](https://www.kaggle.com/datasets/kylegra
 # Setting up AWS SageMaker with Conda
 
 This guide explains how to configure and use Amazon SageMaker with Conda for machine learning projects. 
+Firstly you need to set up the AWS CLI your local machine.
 
 **Prerequisites**
 --
