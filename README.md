@@ -1,10 +1,11 @@
 # Medical-Image-Classification-AWS-SageMaker
 
-"This repo aims to classify skin as cancerous or non-cancerous using a skin cancer dataset." In this repository, we will use AWS Sagemaker for training our model. 
+
+This repository contains a model for classifying whether a person has squamous cell carcinoma or adenocarcinoma based on the processing of chest scan data. In this repository, we will use AWS Sagemaker for training our model. 
 
 **Dataset**
 
-You can find the medical dataset [here.](https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset)
+You can find the medical dataset [here.]()
 
 **Installation**
 
