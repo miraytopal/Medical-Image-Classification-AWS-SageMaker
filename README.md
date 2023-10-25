@@ -18,6 +18,10 @@ Before you start, ensure that you have the following prerequisites in place:
 An AWS account with appropriate permissions to use Amazon SageMaker.
 AWS Command Line Interface (CLI) is installed and configured with your AWS credentials.
 
+Download and install the AWS CLI from the official AWS CLI [website.](https://aws.amazon.com/cli/)
+
+Verify the installation by running aws --version in your terminal.
+
 Resources
 --
 - https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/using_tf.html
