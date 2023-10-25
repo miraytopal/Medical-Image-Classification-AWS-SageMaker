@@ -39,11 +39,16 @@ To create a Conda environment, you can use the following commands in a Jupyter N
 
 ```
 !conda activate myenv
-Install the necessary packages:
 conda create --prefix ./env python=3.8
 conda activate ./env
+```
+Install the necessary packages:
+```
 pip install boto3 awscli sagemaker
 pip install tensorflow==2.1.0
+```
+
+```
 conda install -c conda-forge notebook
 python -m ipykernel install --user --name sagemaker
 pip install jupyterlab
