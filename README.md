@@ -54,5 +54,3 @@ Resources
 --
 - https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/using_tf.html
 
-
- ![aws-logo](https://github.com/miraytopal/Medical-Image-Classification-AWS-SageMaker/assets/75898277/cbc6c2b3-1306-4926-9628-26f12f66873a)
