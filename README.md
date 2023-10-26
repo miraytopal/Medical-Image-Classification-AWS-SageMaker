@@ -9,21 +9,21 @@ If you haven't already installed the AWS Command Line Interface (CLI) on your lo
 
 *Install AWS CLI:*
 
-Download and install the AWS CLI from the official AWS CLI [website.](https://aws.amazon.com/cli/)
-After installing, open your terminal or command prompt and run aws --version to confirm that it's installed correctly.
+- Download and install the AWS CLI from the official AWS CLI [website.](https://aws.amazon.com/cli/)
+- After installing, open your terminal or command prompt and run aws --version to confirm that it's installed correctly.
 
 *Configure AWS CLI:*
 
-Run AWS configure in your terminal and provide your AWS access key, secret key, default region, and output format (json, yaml etc). You can find these in your AWS account.
+- Run AWS configure in your terminal and provide your AWS access key, secret key, default region, and output format (json, yaml etc). You can find these in your AWS account.
 
 **2. Create a SageMaker Notebook Instance**
 
-Go to the AWS Management Console.
-Navigate to Amazon SageMaker.
-Click "Create notebook instance."
-Configure your notebook instance with a name, an IAM role with appropriate permissions, and choose the instance type.
-For "Permissions and encryption," you can choose the default settings or customize as needed.
-Review and create the notebook instance.
+- Go to the AWS Management Console.
+- Navigate to Amazon SageMaker.
+- Click "Create notebook instance."
+- Configure your notebook instance with a name, an IAM role with appropriate permissions, and choose the instance type.
+- For "Permissions and encryption," you can choose the default settings or customize as needed.
+- Create the notebook instance.
 
 **3. Access Your SageMaker Notebook**
 
@@ -33,15 +33,15 @@ Once your notebook instance is created, click on "Open Jupyter" to access the Ju
 
 Inside your Jupyter Notebook, create a new Jupyter Notebook or Python script.
 
-To create a Conda environment, you can use the following commands in a Jupyter Notebook cell:
+- To create a Conda environment, you can use the following commands in a Jupyter Notebook cell:
 
 ```!conda create -n myenv python=3.8```
 
-Activate your Conda environment:
+- Activate your Conda environment:
 
 ```!conda activate myenv```
 
-Install the necessary packages:
+- Install the necessary packages:
 
 ```!conda install -c conda-forge boto3 awscli sagemaker```
 
