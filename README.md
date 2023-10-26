@@ -26,9 +26,11 @@ For "Permissions and encryption," you can choose the default settings or customi
 Review and create the notebook instance.
 
 **3. Access Your SageMaker Notebook**
+
 Once your notebook instance is created, click on "Open Jupyter" to access the Jupyter Notebook interface.
 
 **4. Create a Conda Environment**
+
 Inside your Jupyter Notebook, create a new Jupyter Notebook or Python script.
 
 To create a Conda environment, you can use the following commands in a Jupyter Notebook cell:
