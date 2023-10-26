@@ -45,7 +45,11 @@ Inside your Jupyter Notebook, create a new Jupyter Notebook or Python script.
 
 ```!conda install -c conda-forge boto3 awscli sagemaker```
 
-Resources
+📑 Resources
 --
 - https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/using_tf.html
+
+License
+--
+This project is licensed under the [Apache License 2.0](https://github.com/miraytopal/Medical-Image-Classification-AWS-SageMaker/blob/main/LICENSE) License. Feel free to use and modify the code as per the license terms.
 
