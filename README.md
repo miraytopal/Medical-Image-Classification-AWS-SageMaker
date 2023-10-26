@@ -48,6 +48,7 @@ Inside your Jupyter Notebook, create a new Jupyter Notebook or Python script.
 📑 Resources
 --
 - https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/using_tf.html
+- https://github.com/GuldenizBektas/aws-vision-transformer-project/tree/main
 
 License
 --
