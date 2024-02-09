@@ -21,8 +21,8 @@ If you haven't already installed the AWS Command Line Interface (CLI) on your lo
 - Go to the AWS Management Console.
 - Navigate to Amazon SageMaker.
 - Click "Create notebook instance."
-- Configure your notebook instance with a name, an IAM role with appropriate permissions, and choose the instance type.
-- For "Permissions and encryption," you can choose the default settings or customize as needed.
+- Configure your notebook instance with a name, and an IAM role with appropriate permissions, and choose the instance type.
+- For "Permissions and encryption", you can choose the default settings or customize as needed.
 - Create the notebook instance.
 
 **3. Access Your SageMaker Notebook**
@@ -52,5 +52,5 @@ Inside your Jupyter Notebook, create a new Jupyter Notebook or Python script.
 
 License
 --
-This project is licensed under the [Apache License 2.0](https://github.com/miraytopal/Medical-Image-Classification-AWS-SageMaker/blob/main/LICENSE) License. Feel free to use and modify the code as per the license terms.
+This project is under the [Apache License 2.0](https://github.com/miraytopal/Medical-Image-Classification-AWS-SageMaker/blob/main/LICENSE) License. Feel free to use and modify the code as per the license terms.
 
